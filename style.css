@@ -1,0 +1,47 @@
+.title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  overflow-wrap: break-word;
+}
+
+.credit{
+  width: 300px;
+  background-color:#F4F4F4;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+  color: #201C1C;
+  text-align: left;
+}
+
+
+.header {
+  width: 100%
+}
+
+body{
+  background-color: #201C1C;
+  color:#F4F4F4;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.last{
+  width: 91.5%;
+  background-color:#F4F4F4;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  font-family: 'Roboto', sans-serif;
+  color: #201C1C;
+  position:fixed;
+  bottom:20px;
+  text-align: left;
+}
